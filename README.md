@@ -1,28 +1,23 @@
-# This is a large heading
+# About me
 
-## This is a small heading
+### Geography
 
-And as **imagination** bodies forth,
-THe forms of things *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of TO, Canada.
 
-- This is
-- an unordered
-- list
+### Learning progress - programming
 
-1. This is
-2. an ordered
-3. list
+- 2018.09           Coursera *Learn to Program: The fundamentals*
+- 2018.10- present  *R for Data Science* by Garrett Grolemund and Hadley Wickham
+- 2019.03- 2019.04  *Unix and Perl Primer for Biologist* by Keith Bradnam and Ian Korf
+- 2019.04           *Practical Computing for Biologist* by Cliburn Chan
+- 2019.04           Coursera *The Unix Workbench* by Sean Kross
+- ...
 
-Here is `some code` in the middle of a sentence
+### Translating progress
 
-```
-This is
-a block
-of code
-```
+- 2019.03- present  Coursera *Drug Discovery, Development and Commercialization*
+- 2019.03- present  RareConnect.org
 
-Here is how you make [a link](https"//www.wikipedia.org)
+### Contact
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+The best way to get in touch with me is [on Twitter](https://twitter.com/tiantoronto)
